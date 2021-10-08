@@ -31,8 +31,8 @@ package body ada_main is
    E117 : Short_Integer; pragma Import (Ada, E117, "ada__finalization_E");
    E116 : Short_Integer; pragma Import (Ada, E116, "system__file_io_E");
    E106 : Short_Integer; pragma Import (Ada, E106, "ada__text_io_E");
-   E122 : Short_Integer; pragma Import (Ada, E122, "personne_E");
-   E124 : Short_Integer; pragma Import (Ada, E124, "test_E");
+   E123 : Short_Integer; pragma Import (Ada, E123, "personne_E");
+   E125 : Short_Integer; pragma Import (Ada, E125, "test_E");
 
    Sec_Default_Sized_Stacks : array (1 .. 1) of aliased System.Secondary_Stack.SS_Stack (System.Parameters.Runtime_Default_Sec_Stack_Size);
 
@@ -210,8 +210,8 @@ package body ada_main is
       Ada.Text_Io'Elab_Spec;
       Ada.Text_Io'Elab_Body;
       E106 := E106 + 1;
-      E122 := E122 + 1;
-      E124 := E124 + 1;
+      E123 := E123 + 1;
+      E125 := E125 + 1;
    end adainit;
 
    procedure Ada_Main_Program;
@@ -249,6 +249,7 @@ package body ada_main is
    end;
 
 --  BEGIN Object file/option list
+   --   D:\STOCKAGE\code\adastudio\first project\obj\new_vs_sub_type.o
    --   D:\STOCKAGE\code\adastudio\first project\obj\personne.o
    --   D:\STOCKAGE\code\adastudio\first project\obj\test.o
    --   D:\STOCKAGE\code\adastudio\first project\obj\main.o

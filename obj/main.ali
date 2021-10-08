@@ -10,10 +10,11 @@ RV NO_DIRECT_BOOLEAN_OPERATORS
 RV NO_IO
 RV NO_IMPLEMENTATION_PRAGMAS
 
-U main%b		main.adb		73d32428 NE OO SU
+U main%b		main.adb		534bf7b7 NE OO SU
 W ada%s			ada.ads			ada.ali
 Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
 W ada.text_io%s		a-textio.adb		a-textio.ali
+W new_vs_sub_type%s	new_vs_sub_type.ads	new_vs_sub_type.ali
 W personne%s		personne.adb		personne.ali
 W test%s		test.adb		test.ali
 
@@ -29,7 +30,8 @@ D a-textio.ads		20210520051130 aef4d56d ada.text_io%s
 D a-unccon.ads		20210520051130 0e9b276f ada.unchecked_conversion%s
 D interfac.ads		20210520051132 edec285f interfaces%s
 D i-cstrea.ads		20210520051132 e53d8b8e interfaces.c_streams%s
-D main.adb		20211008124350 b2f2f3ed main%b
+D main.adb		20211008152800 3d064ed9 main%b
+D new_vs_sub_type.ads	20211008152148 af6c6eab new_vs_sub_type%s
 D personne.ads		20211008103942 9c7a29eb personne%s
 D system.ads		20210520051136 2ffa5114 system%s
 D s-crtl.ads		20210520051132 0ebbdb71 system.crtl%s
@@ -49,30 +51,42 @@ D s-wchcon.ads		20210520051136 1b7d22d2 system.wch_con%s
 D test.ads		20211008124350 f3af2b43 test%s
 D unchconv.ads		20210520051136 ca2f9e18 unchecked_conversion%s
 G a e
-G c Z b b [main standard 5 11 none]
-G r c none [main standard 5 11 none] [initialize personne 8 14 none]
-G r c none [main standard 5 11 none] [gettag personne 11 13 none]
-G r c none [main standard 5 11 none] [gethealth personne 12 13 none]
-G r c none [main standard 5 11 none] [test_and_detect_fail test 4 14 none]
+G c Z b b [main standard 6 11 none]
+G r c none [main standard 6 11 none] [initialize personne 8 14 none]
+G r c none [main standard 6 11 none] [gettag personne 11 13 none]
+G r c none [main standard 6 11 none] [gethealth personne 12 13 none]
+G r c none [main standard 6 11 none] [test_and_detect_fail test 4 14 none]
 X 1 ada.ads
-16K9*Ada 20e8 13|1r6 1r23 11r4 12r4 13r4 31r4 32r4 34r7 36r7 38r4
+16K9*Ada 20e8 13|1r6 1r23 22r4 23r4 24r4 49r4 50r4 52r7 54r7 56r4
 X 9 a-textio.ads
-58K13*Text_IO 725e16 13|1w10 1r27 11r8 12r8 13r8 31r8 32r8 34r11 36r11 38r8
-463U14*Put 13|32s16
-506U14*Put_Line 13|11s16 12s16 13s16 31s16 34s19 36s19 38s16
+58K13*Text_IO 725e16 13|1w10 1r27 22r8 23r8 24r8 49r8 50r8 52r11 54r11 56r8
+463U14*Put 13|50s16
+506U14*Put_Line 13|22s16 23s16 24s16 49s16 52s19 54s19 56s16
 X 13 main.adb
-5U11*Main 5b11 40l5 40t9
-6b4 All_Tests_Passed{boolean} 15m4 24m7 24r7 33r7
-8r4 Leonard{14|3R9} 22m25 22r25 25r24 25r65
-X 14 personne.ads
-1K9*Personne 13|2w6 2r23 8r14 22r4 25r7 25r45 14|22e13
-3R9*Personne_T 13|8r23 14|20e14
+6U11*Main 6b11 58l5 58t9
+7b4 All_Tests_Passed{boolean} 26m4 35m7 35r7 41m7 41r7 51r7
+9r4 Leonard{15|3R9} 33m25 33r25 36r24 36r65
+12i4 Money_Sean{14|3I9}
+13i4 Money_Jean{14|4I9}
+14i4 Total_Money{integer}
+16i4 Spectateurs_In_Salle_1_Lundi{14|6I12} 39r31
+17i4 Spectateurs_In_Salle_2_Lundi{14|7I12} 39r62
+18i4 Total_Spectateurs_Lundi{integer} 39m4 42r7
+X 14 new_vs_sub_type.ads
+1K9*New_Vs_Sub_Type 13|4w6 4r27 14|9e20
+3I9*Dollar<integer> 13|12r17
+4I9*Euro<integer> 13|13r17
+6I12*Spectateurs_In_Salle_1{integer} 13|16r34
+7I12*Spectateurs_In_Salle_2{integer} 13|17r34
+X 15 personne.ads
+1K9*Personne 13|2w6 2r23 9r14 33r4 36r7 36r45 15|22e13
+3R9*Personne_T 13|9r23 15|20e14
 5A12*Tag_String{string}<integer>
 6I12*Health_Integer{integer}
-8U14*Initialize 13|22s13
-11V13*GetTag{5A12} 13|25s16
-12V13*GetHealth{6I12} 13|25s54
-X 30 test.ads
-2K9*Test 13|3w6 3r23 30|14e9
-4U14*Test_And_Detect_Fail 13|23s4
+8U14*Initialize 13|33s13
+11V13*GetTag{5A12} 13|36s16
+12V13*GetHealth{6I12} 13|36s54
+X 31 test.ads
+2K9*Test 13|3w6 3r23 31|14e9
+4U14*Test_And_Detect_Fail 13|34s4 40s4
 

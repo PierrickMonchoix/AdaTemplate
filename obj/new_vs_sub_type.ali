@@ -1,0 +1,21 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U new_vs_sub_type%s	new_vs_sub_type.ads	af6c6eab NE OO PK
+
+D new_vs_sub_type.ads	20211008152148 af6c6eab new_vs_sub_type%s
+D system.ads		20210520051136 2ffa5114 system%s
+G a e
+X 1 new_vs_sub_type.ads
+1K9*New_Vs_Sub_Type 9l5 9e20
+3I9*Dollar<integer>
+4I9*Euro<integer>
+6I12*Spectateurs_In_Salle_1{integer}
+7I12*Spectateurs_In_Salle_2{integer}
+

@@ -1,0 +1,2 @@
+new_type_vs_sub_type.ads:1:09: error: package "New_Type_Vs_Sub_Type" does not allow a body
+new_type_vs_sub_type.ads:1:09: error: remove incorrect body in file "new_type_vs_sub_type.adb"
