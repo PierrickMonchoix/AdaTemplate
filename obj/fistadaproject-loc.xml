@@ -1,538 +1,647 @@
 <?xml version="1.0"?>
 <Locations >
   <Project>
-    <vfs_file>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_file>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 18" line=" 4" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
+    <vfs_file />
     <file_marker column=" 1" line=" 1" >
       <vfs_project />
-      <vfs_file>C:\GNAT\2021\lib\gcc\x86_64-w64-mingw32\10.3.1\adainclude\ada.ads</vfs_file>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 16" >
+    <file_marker column=" 1" line=" 9" >
       <vfs_project />
-      <vfs_file>C:\GNAT\2021\lib\gcc\x86_64-w64-mingw32\10.3.1\adainclude\ada.ads</vfs_file>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_file>
     </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 4" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 4" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 6" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 6" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 15" line=" 20" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 6" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 6" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 15" line=" 20" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    <file_marker column=" 25" line=" 3" >
+      <vfs_project />
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_file>
     </file_marker>
     <file_marker column=" 1" line=" 17" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 6" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 17" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 17" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 17" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 6" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 4" line=" 5" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 4" line=" 5" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 4" line=" 5" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 4" line=" 5" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 4" line=" 5" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 15" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 4" line=" 5" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 4" line=" 5" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 15" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 4" line=" 5" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 17" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\main.adb</vfs_file>
     </file_marker>
     <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 17" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 32" line=" 2" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 9" line=" 16" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>C:\GNAT\2021\lib\gcc\x86_64-w64-mingw32\10.3.1\adainclude\a-string.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 15" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 32" line=" 2" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 4" line=" 5" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 6" line=" 9" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 15" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 17" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 15" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 4" line=" 5" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 17" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 4" line=" 5" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 15" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 14" line=" 22" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 19" line=" 3" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 4" line=" 16" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 4" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 4" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 4" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
-    </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 4" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\test.adb</vfs_file>
     </file_marker>
     <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\test.ads</vfs_file>
     </file_marker>
     <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\personne.ads</vfs_file>
     </file_marker>
     <file_marker column=" 1" line=" 1" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 14" line=" 20" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+    <file_marker column=" 1" line=" 17" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 14" line=" 1" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\personne.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 3" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\personne.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 4" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\personne.ads</vfs_file>
     </file_marker>
-    <file_marker column=" 4" line=" 3" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\yolo.adb</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\test.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 4" line=" 3" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\yolo.ads</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\test.ads</vfs_file>
     </file_marker>
-    <file_marker column=" 19" line=" 7" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+  </Project>
+  <Project >
+    <vfs_file >D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_file>
     </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    <file_marker column=" 1" line=" 9">
+      <vfs_project  />
+      <vfs_file >D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_file>
     </file_marker>
-    <file_marker column=" 97" line=" 3" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+    <file_marker current="true" column=" 25" line=" 3">
+      <vfs_project  />
+      <vfs_file >D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_file>
     </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+  </Project>
+  <Project >
+    <vfs_file >D:\STOCKAGE\code\adastudio\first project\code\fistadaproject.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >D:\STOCKAGE\code\adastudio\test project\project\tests.gpr</vfs_file>
     </file_marker>
-    <file_marker column=" 92" line=" 19" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    <file_marker column=" 22" line=" 4">
+      <vfs_project  />
+      <vfs_file >D:\STOCKAGE\code\adastudio\test project\project\tests.gpr</vfs_file>
     </file_marker>
-    <file_marker column=" 34" line=" 16" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >D:\STOCKAGE\code\adastudio\test project\project\tests\test_inc.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 49" line=" 6" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\first project\code\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\first project\code\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 4" line=" 5" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\first project\code\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\first project\code\src\personne.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 52" line=" 6" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\first project\code\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\first project\code\src\personne.ads</vfs_file>
     </file_marker>
-    <file_marker column=" 4" line=" 5" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\first project\code\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\first project\code\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 11" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+  </Project>
+  <Project >
+    <vfs_file >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 11" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 11" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 11" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 15" line=" 16" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 4" line=" 5" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 18" line=" 18" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 67" line=" 15" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 72" line=" 18" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    <file_marker column=" 18" line=" 4">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 4" line=" 5" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 15" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 4" line=" 5" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 60" line=" 16" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker current="true" column=" 4" line=" 5" >
-      <vfs_project>D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
-      <vfs_file>D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\lib\gcc\x86_64-w64-mingw32\10.3.1\adainclude\ada.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 16">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\lib\gcc\x86_64-w64-mingw32\10.3.1\adainclude\ada.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 20">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 20">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 17">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 17">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 17">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 17">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 15">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 15">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 17">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 17">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 2">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 16">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >C:\GNAT\2021\lib\gcc\x86_64-w64-mingw32\10.3.1\adainclude\a-string.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 15">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 2">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 9">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 15">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 17">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 15">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 17">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 15">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 22">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 3">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 16">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 20">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 1">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 3" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\yolo.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\yolo.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 7">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 97" line=" 3">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 92" line=" 19">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 16">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 49" line=" 6">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 52" line=" 6">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 16">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 18">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 67" line=" 15">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\personne.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 72" line=" 18">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 15">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 60" line=" 16">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 4" line=" 5">
+      <vfs_project >D:\STOCKAGE\code\adastudio\fistadaproject.gpr</vfs_project>
+      <vfs_file >D:\STOCKAGE\code\adastudio\src\main.adb</vfs_file>
     </file_marker>
   </Project>
 </Locations>

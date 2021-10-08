@@ -40,7 +40,7 @@ package ada_main is
    pragma Export (C, main, "main");
 
    type Version_32 is mod 2 ** 32;
-   u00001 : constant Version_32 := 16#723df46d#;
+   u00001 : constant Version_32 := 16#73d32428#;
    pragma Export (C, u00001, "mainB");
    u00002 : constant Version_32 := 16#2e11c0b1#;
    pragma Export (C, u00002, "system__standard_libraryB");
@@ -284,18 +284,22 @@ package ada_main is
    pragma Export (C, u00121, "personneB");
    u00122 : constant Version_32 := 16#9c7a29eb#;
    pragma Export (C, u00122, "personneS");
-   u00123 : constant Version_32 := 16#fd83e873#;
-   pragma Export (C, u00123, "system__concat_2B");
-   u00124 : constant Version_32 := 16#2d5a86c4#;
-   pragma Export (C, u00124, "system__concat_2S");
-   u00125 : constant Version_32 := 16#ae4beccb#;
-   pragma Export (C, u00125, "system__val_intS");
-   u00126 : constant Version_32 := 16#a5b55d2f#;
-   pragma Export (C, u00126, "system__val_unsS");
-   u00127 : constant Version_32 := 16#eca5ecae#;
-   pragma Export (C, u00127, "system__memoryB");
-   u00128 : constant Version_32 := 16#76873720#;
-   pragma Export (C, u00128, "system__memoryS");
+   u00123 : constant Version_32 := 16#a917fed5#;
+   pragma Export (C, u00123, "testB");
+   u00124 : constant Version_32 := 16#5d5bfe2e#;
+   pragma Export (C, u00124, "testS");
+   u00125 : constant Version_32 := 16#2b70b149#;
+   pragma Export (C, u00125, "system__concat_3B");
+   u00126 : constant Version_32 := 16#248a0db1#;
+   pragma Export (C, u00126, "system__concat_3S");
+   u00127 : constant Version_32 := 16#fd83e873#;
+   pragma Export (C, u00127, "system__concat_2B");
+   u00128 : constant Version_32 := 16#2d5a86c4#;
+   pragma Export (C, u00128, "system__concat_2S");
+   u00129 : constant Version_32 := 16#eca5ecae#;
+   pragma Export (C, u00129, "system__memoryB");
+   u00130 : constant Version_32 := 16#76873720#;
+   pragma Export (C, u00130, "system__memoryS");
 
    --  BEGIN ELABORATION ORDER
    --  ada%s
@@ -333,6 +337,8 @@ package ada_main is
    --  system.wch_cnv%b
    --  system.concat_2%s
    --  system.concat_2%b
+   --  system.concat_3%s
+   --  system.concat_3%b
    --  system.traceback%s
    --  system.traceback%b
    --  ada.characters.handling%s
@@ -419,12 +425,12 @@ package ada_main is
    --  ada.finalization%s
    --  system.file_io%s
    --  system.file_io%b
-   --  system.val_uns%s
-   --  system.val_int%s
    --  ada.text_io%s
    --  ada.text_io%b
    --  personne%s
    --  personne%b
+   --  test%s
+   --  test%b
    --  main%b
    --  END ELABORATION ORDER
 

@@ -1,21 +1,22 @@
 V "GNAT Lib v2021"
-M P W=b
 A -gnatA
 A -mtune=generic
 A -march=x86-64
 P ZX
 
 RN
-RV NO_DIRECT_BOOLEAN_OPERATORS
 RV NO_IO
+RV NO_DYNAMIC_SIZED_OBJECTS
 RV NO_IMPLEMENTATION_PRAGMAS
 
-U main%b		main.adb		73d32428 NE OO SU
+U test%b		test.adb		a917fed5 NE OO PK
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+Z system.concat_3%s	s-conca3.adb		s-conca3.ali
+
+U test%s		test.ads		5d5bfe2e EE NE OO PK
 W ada%s			ada.ads			ada.ali
 Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
 W ada.text_io%s		a-textio.adb		a-textio.ali
-W personne%s		personne.adb		personne.ali
-W test%s		test.adb		test.ali
 
 D ada.ads		20210520051132 76789da1 ada%s
 D a-except.ads		20210520051128 946f3014 ada.exceptions%s
@@ -29,9 +30,8 @@ D a-textio.ads		20210520051130 aef4d56d ada.text_io%s
 D a-unccon.ads		20210520051130 0e9b276f ada.unchecked_conversion%s
 D interfac.ads		20210520051132 edec285f interfaces%s
 D i-cstrea.ads		20210520051132 e53d8b8e interfaces.c_streams%s
-D main.adb		20211008124350 b2f2f3ed main%b
-D personne.ads		20211008103942 9c7a29eb personne%s
 D system.ads		20210520051136 2ffa5114 system%s
+D s-conca3.ads		20210520051132 0b705ca5 system.concat_3%s
 D s-crtl.ads		20210520051132 0ebbdb71 system.crtl%s
 D s-exctab.ads		20210520051132 54135002 system.exception_table%s
 D s-ficobl.ads		20210520051132 078245e4 system.file_control_block%s
@@ -47,32 +47,29 @@ D s-traent.ads		20210520051134 26a8d361 system.traceback_entries%s
 D s-unstyp.ads		20210520051134 2b077493 system.unsigned_types%s
 D s-wchcon.ads		20210520051136 1b7d22d2 system.wch_con%s
 D test.ads		20211008124350 f3af2b43 test%s
+D test.adb		20211008122834 5ab8d596 test%b
 D unchconv.ads		20210520051136 ca2f9e18 unchecked_conversion%s
 G a e
-G c Z b b [main standard 5 11 none]
-G r c none [main standard 5 11 none] [initialize personne 8 14 none]
-G r c none [main standard 5 11 none] [gettag personne 11 13 none]
-G r c none [main standard 5 11 none] [gethealth personne 12 13 none]
-G r c none [main standard 5 11 none] [test_and_detect_fail test 4 14 none]
+G c Z s b [test_and_detect_fail test 4 14 none]
+G c Z s b [test_equality test 9 13 none]
+G c Z s b [detect_fail test 12 14 none]
 X 1 ada.ads
-16K9*Ada 20e8 13|1r6 1r23 11r4 12r4 13r4 31r4 32r4 34r7 36r7 38r4
+16K9*Ada 20e8 29|1r6 1r23 30|8r10 11r10
 X 9 a-textio.ads
-58K13*Text_IO 725e16 13|1w10 1r27 11r8 12r8 13r8 31r8 32r8 34r11 36r11 38r8
-463U14*Put 13|32s16
-506U14*Put_Line 13|11s16 12s16 13s16 31s16 34s19 36s19 38s16
-X 13 main.adb
-5U11*Main 5b11 40l5 40t9
-6b4 All_Tests_Passed{boolean} 15m4 24m7 24r7 33r7
-8r4 Leonard{14|3R9} 22m25 22r25 25r24 25r65
-X 14 personne.ads
-1K9*Personne 13|2w6 2r23 8r14 22r4 25r7 25r45 14|22e13
-3R9*Personne_T 13|8r23 14|20e14
-5A12*Tag_String{string}<integer>
-6I12*Health_Integer{integer}
-8U14*Initialize 13|22s13
-11V13*GetTag{5A12} 13|25s16
-12V13*GetHealth{6I12} 13|25s54
-X 30 test.ads
-2K9*Test 13|3w6 3r23 30|14e9
-4U14*Test_And_Detect_Fail 13|23s4
+58K13*Text_IO 725e16 29|1w10 1r27 30|8r14 11r14
+506U14*Put_Line 30|8s22 11s22
+X 29 test.ads
+2K9*Test 9E13 14l5 14e9 30|1b14 33l5 33t9
+4U14*Test_And_Detect_Fail 5=7 5>27 5>48 30|23b14 31l8 31t28
+5b7 B{boolean} 30|24b7 30m20
+5a27 Identifier{string} 30|24b27 29r32
+5b48 Equality{boolean} 30|24b48 29r44 30r23
+9V13 Test_Equality{boolean} 10>7 10>28 30|3b13 14l8 14t21 29s17
+10a7 Identifier{string} 30|4b7 8r42 11r46
+10b28 Equality{boolean} 30|4b28 7r10
+12U14 Detect_Fail 12=27 12>47 30|16b14 21l8 21t19 30s7
+12b27 B{boolean} 30|16b27 19m10
+12b47 Test_To_Pass{boolean} 30|16b47 18r10
+X 30 test.adb
+26b7 Result{boolean} 29m7
 

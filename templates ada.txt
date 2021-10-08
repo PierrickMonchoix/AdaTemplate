@@ -1,0 +1,5 @@
+
+   -- Ada.Text_IO.Put("Saisir le tag de Leonard:");
+   -- TagLeonard := Ada.Text_IO.Get_Line;
+   -- HealthLeonard := Integer'Value (Ada.Text_IO.Get_Line);
+   -- Personne.Initialize (Leonard, TagLeonard, HealthLeonard);
