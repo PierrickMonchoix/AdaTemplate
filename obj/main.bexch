@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+D:\STOCKAGE\code\adastudio\fistadaproject.gpr
+20211007092706 12313793d487155a1b997e444aaf5fc3
+[BOUND OBJECT FILES]
+D:\STOCKAGE\code\adastudio\obj\personne.o
+D:\STOCKAGE\code\adastudio\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LD:\STOCKAGE\code\adastudio\obj\
+-LD:\STOCKAGE\code\adastudio\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
