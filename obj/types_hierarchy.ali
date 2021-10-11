@@ -10,15 +10,36 @@ RV NO_FLOATING_POINT
 RV NO_IMPLEMENTATION_PRAGMAS
 RV NO_ELABORATION_CODE
 
-U types_hierarchy%s	types_hierarchy.ads	3061897e EE OO PK
+U types_hierarchy%s	types_hierarchy.ads	f446ed62 EE OO PK
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
 
-D types_hierarchy.ads	20211009112900 3061897e types_hierarchy%s
+D ada.ads		20210520051132 76789da1 ada%s
+D a-string.ads		20210520051130 90ac6797 ada.strings%s
+D a-sttebu.ads		20210520051130 18209c64 ada.strings.text_buffers%s
+D a-stuten.ads		20210520051130 808c40ad ada.strings.utf_encoding%s
+D interfac.ads		20210520051132 edec285f interfaces%s
+D types_hierarchy.ads	20211011105502 f446ed62 types_hierarchy%s
+D unchconv.ads		20210520051136 ca2f9e18 unchecked_conversion%s
 G a e
-X 1 types_hierarchy.ads
-1K9*Types_Hierarchy 15l5 15e20
-3F9*Degres<float> 6r31 8r10
-6F9*Degres_Celcius<3F9> 10r41 11r42
-7F9*Degres_Fahrenheit<3F9>
-10F12*Plage_Degres_Celcius_Nice{6F9}
-11F12*Place_Degres_Celcius_Lille{6F9}
+X 6 types_hierarchy.ads
+1K9*Types_Hierarchy 46l5 46e20
+6F9*Degres<float> 9r31 10r34
+9F9*Degres_Celcius<6F9> 14r41 15r42
+10F9*Degres_Fahrenheit<6F9>
+14F12*Plage_Degres_Celcius_Nice{9F9}
+15F12*Place_Degres_Celcius_Lille{9F9}
+18E9*Roue_Mark 18e48 33r14
+18n23*Mark_Roue_A{18E9}
+18n36*Mark_Roue_B{18E9}
+19E9*Aile_Mark 19e48 37r14
+19n23*Mark_Aile_A{19E9}
+19n36*Mark_Aile_B{19E9}
+28R9*Vehicle 30e14 32r24 36r22
+29i7*Places{integer}
+32R9*Voiture<28R9> 34e14 41r30
+33e7*Roue{18E9}
+36R9*Avion<28R9> 38e14
+37e7*Aile{19E9}
+41R9*Voiture_Rouge<32R9> 41e54
+44R9*Class_Sans_Membre 44e48
 

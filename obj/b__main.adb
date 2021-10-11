@@ -31,8 +31,10 @@ package body ada_main is
    E117 : Short_Integer; pragma Import (Ada, E117, "ada__finalization_E");
    E116 : Short_Integer; pragma Import (Ada, E116, "system__file_io_E");
    E106 : Short_Integer; pragma Import (Ada, E106, "ada__text_io_E");
+   E133 : Short_Integer; pragma Import (Ada, E133, "classes_abstraites_et_interfaces_E");
    E123 : Short_Integer; pragma Import (Ada, E123, "personne_E");
    E125 : Short_Integer; pragma Import (Ada, E125, "test_E");
+   E131 : Short_Integer; pragma Import (Ada, E131, "test_classes_abtraites_et_interfaces_E");
 
    Sec_Default_Sized_Stacks : array (1 .. 1) of aliased System.Secondary_Stack.SS_Stack (System.Parameters.Runtime_Default_Sec_Stack_Size);
 
@@ -43,19 +45,26 @@ package body ada_main is
 
    procedure finalize_library is
    begin
-      E106 := E106 - 1;
+      E133 := E133 - 1;
       declare
          procedure F1;
-         pragma Import (Ada, F1, "ada__text_io__finalize_spec");
+         pragma Import (Ada, F1, "classes_abstraites_et_interfaces__finalize_spec");
       begin
          F1;
       end;
+      E106 := E106 - 1;
       declare
          procedure F2;
-         pragma Import (Ada, F2, "system__file_io__finalize_body");
+         pragma Import (Ada, F2, "ada__text_io__finalize_spec");
+      begin
+         F2;
+      end;
+      declare
+         procedure F3;
+         pragma Import (Ada, F3, "system__file_io__finalize_body");
       begin
          E116 := E116 - 1;
-         F2;
+         F3;
       end;
       declare
          procedure Reraise_Library_Exception_If_Any;
@@ -210,8 +219,12 @@ package body ada_main is
       Ada.Text_Io'Elab_Spec;
       Ada.Text_Io'Elab_Body;
       E106 := E106 + 1;
+      Classes_Abstraites_Et_Interfaces'Elab_Spec;
+      Classes_Abstraites_Et_Interfaces'Elab_Body;
+      E133 := E133 + 1;
       E123 := E123 + 1;
       E125 := E125 + 1;
+      E131 := E131 + 1;
    end adainit;
 
    procedure Ada_Main_Program;
@@ -249,9 +262,11 @@ package body ada_main is
    end;
 
 --  BEGIN Object file/option list
+   --   D:\STOCKAGE\code\adastudio\first project\obj\classes_abstraites_et_interfaces.o
    --   D:\STOCKAGE\code\adastudio\first project\obj\new_vs_sub_type.o
    --   D:\STOCKAGE\code\adastudio\first project\obj\personne.o
    --   D:\STOCKAGE\code\adastudio\first project\obj\test.o
+   --   D:\STOCKAGE\code\adastudio\first project\obj\test_classes_abtraites_et_interfaces.o
    --   D:\STOCKAGE\code\adastudio\first project\obj\main.o
    --   -LD:\STOCKAGE\code\adastudio\first project\obj\
    --   -LD:\STOCKAGE\code\adastudio\first project\obj\

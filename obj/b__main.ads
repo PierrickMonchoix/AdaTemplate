@@ -40,7 +40,7 @@ package ada_main is
    pragma Export (C, main, "main");
 
    type Version_32 is mod 2 ** 32;
-   u00001 : constant Version_32 := 16#534bf7b7#;
+   u00001 : constant Version_32 := 16#8ec3828c#;
    pragma Export (C, u00001, "mainB");
    u00002 : constant Version_32 := 16#2e11c0b1#;
    pragma Export (C, u00002, "system__standard_libraryB");
@@ -298,10 +298,36 @@ package ada_main is
    pragma Export (C, u00128, "system__concat_2B");
    u00129 : constant Version_32 := 16#2d5a86c4#;
    pragma Export (C, u00129, "system__concat_2S");
-   u00130 : constant Version_32 := 16#eca5ecae#;
-   pragma Export (C, u00130, "system__memoryB");
-   u00131 : constant Version_32 := 16#76873720#;
-   pragma Export (C, u00131, "system__memoryS");
+   u00130 : constant Version_32 := 16#578681cb#;
+   pragma Export (C, u00130, "test_classes_abtraites_et_interfacesB");
+   u00131 : constant Version_32 := 16#c569a1b7#;
+   pragma Export (C, u00131, "test_classes_abtraites_et_interfacesS");
+   u00132 : constant Version_32 := 16#3bc620ec#;
+   pragma Export (C, u00132, "classes_abstraites_et_interfacesB");
+   u00133 : constant Version_32 := 16#f9632e1f#;
+   pragma Export (C, u00133, "classes_abstraites_et_interfacesS");
+   u00134 : constant Version_32 := 16#75390335#;
+   pragma Export (C, u00134, "system__strings__stream_opsB");
+   u00135 : constant Version_32 := 16#ec029138#;
+   pragma Export (C, u00135, "system__strings__stream_opsS");
+   u00136 : constant Version_32 := 16#c9a3fcbc#;
+   pragma Export (C, u00136, "system__stream_attributesB");
+   u00137 : constant Version_32 := 16#414158da#;
+   pragma Export (C, u00137, "system__stream_attributesS");
+   u00138 : constant Version_32 := 16#3e25f63c#;
+   pragma Export (C, u00138, "system__stream_attributes__xdrB");
+   u00139 : constant Version_32 := 16#ce9a2a0c#;
+   pragma Export (C, u00139, "system__stream_attributes__xdrS");
+   u00140 : constant Version_32 := 16#ecc88e78#;
+   pragma Export (C, u00140, "system__fat_fltS");
+   u00141 : constant Version_32 := 16#cafa8775#;
+   pragma Export (C, u00141, "system__fat_lfltS");
+   u00142 : constant Version_32 := 16#b02a299f#;
+   pragma Export (C, u00142, "system__fat_llfS");
+   u00143 : constant Version_32 := 16#eca5ecae#;
+   pragma Export (C, u00143, "system__memoryB");
+   u00144 : constant Version_32 := 16#76873720#;
+   pragma Export (C, u00144, "system__memoryS");
 
    --  BEGIN ELABORATION ORDER
    --  ada%s
@@ -417,6 +443,9 @@ package ada_main is
    --  ada.strings.text_buffers%b
    --  ada.strings.text_buffers.utils%s
    --  ada.strings.text_buffers.utils%b
+   --  system.fat_flt%s
+   --  system.fat_lflt%s
+   --  system.fat_llf%s
    --  system.put_images%s
    --  system.put_images%b
    --  ada.streams%s
@@ -427,13 +456,23 @@ package ada_main is
    --  ada.finalization%s
    --  system.file_io%s
    --  system.file_io%b
+   --  system.stream_attributes%s
+   --  system.stream_attributes.xdr%s
+   --  system.stream_attributes.xdr%b
+   --  system.stream_attributes%b
    --  ada.text_io%s
    --  ada.text_io%b
+   --  system.strings.stream_ops%s
+   --  system.strings.stream_ops%b
+   --  classes_abstraites_et_interfaces%s
+   --  classes_abstraites_et_interfaces%b
    --  new_vs_sub_type%s
    --  personne%s
    --  personne%b
    --  test%s
    --  test%b
+   --  test_classes_abtraites_et_interfaces%s
+   --  test_classes_abtraites_et_interfaces%b
    --  main%b
    --  END ELABORATION ORDER
 
