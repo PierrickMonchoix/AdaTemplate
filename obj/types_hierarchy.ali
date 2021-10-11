@@ -1,0 +1,24 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -gnatc
+A -mtune=generic
+A -march=x86-64
+P NO FX
+
+RN
+RV NO_FLOATING_POINT
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_ELABORATION_CODE
+
+U types_hierarchy%s	types_hierarchy.ads	3061897e EE OO PK
+
+D types_hierarchy.ads	20211009112900 3061897e types_hierarchy%s
+G a e
+X 1 types_hierarchy.ads
+1K9*Types_Hierarchy 15l5 15e20
+3F9*Degres<float> 6r31 8r10
+6F9*Degres_Celcius<3F9> 10r41 11r42
+7F9*Degres_Fahrenheit<3F9>
+10F12*Plage_Degres_Celcius_Nice{6F9}
+11F12*Place_Degres_Celcius_Lille{6F9}
+

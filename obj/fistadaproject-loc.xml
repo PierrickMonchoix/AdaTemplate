@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <Locations >
-  <Project>
-    <vfs_file>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_file>
+  <Project >
     <file_marker column=" 1" line=" 45" >
       <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
       <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\main.adb</vfs_file>
@@ -218,9 +217,73 @@
       <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
       <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker current="true" column=" 35" line=" 42" >
+    <file_marker column=" 35" line=" 42" >
       <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
       <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 61" line=" 7" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\new_vs_sub_type.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\types_hierarchy.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\new_vs_sub_type.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\personne.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\personne.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\ihneritance.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\types_hierarchy.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\types_hierarchy.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\types_hierarchy.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\types_hierarchy.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\types_hierarchy.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\types_hierarchy.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\types_hierarchy.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>D:\STOCKAGE\code\adastudio\first project\fistadaproject.gpr</vfs_project>
+      <vfs_file>D:\STOCKAGE\code\adastudio\first project\src\ihneritance.ads</vfs_file>
     </file_marker>
   </Project>
   <Project >
