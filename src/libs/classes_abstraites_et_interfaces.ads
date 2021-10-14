@@ -26,8 +26,7 @@ package Classes_Abstraites_Et_Interfaces is
 
    -- Interface car un Dessinable à l'unique devoir
    -- de remplir une fonctionnalité: Se_Presenter ici
-   type Dessinable is interface;
-   
+   type Presentable is interface;
    
    subtype String_For_Nom is String (1..3);
    subtype String_For_Presentation is String (1..11);
@@ -36,11 +35,11 @@ package Classes_Abstraites_Et_Interfaces is
    -- dont un paramétre est un interface
    -- est considéré comme une méthode de l'interface
    -- (que les implémenteurs devront implémenter)
-   function Se_Presenter (Self : Dessinable) return String_For_Presentation is abstract;
+   function Se_Presenter (Self : Presentable) return String_For_Presentation is abstract;
 
    -- < INTERFACE
 
-   type Humain is new Etre_Vivant and Dessinable with record
+   type Humain is new Etre_Vivant and Presentable with record
       Nom: String_For_Nom;
    end record;
    
