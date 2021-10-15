@@ -11,8 +11,6 @@ package body Test_Classe_Concrete_Avec_Attributs_Et_Methodes is
 
    begin
 
-
-
       Initialize (Jack, "JAC", 80);
       Test_And_Detect_Fail
         (All_Tests_Passed, "Test_Classe_Concrete_Avec_Attributs_Et_Methodes.Initialize & Test_Classe_Concrete_Avec_Attributs_Et_Methodes.Getters",
