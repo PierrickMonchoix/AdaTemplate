@@ -1,6 +1,11 @@
 with Ada.Strings.Unbounded ; use Ada.Strings.Unbounded;
 
+-- TABLEAUX A 1D
+-- TABLEAUX A 2D
+-- TABLEAUX NON CONTRAINTS
+
 package Tableaux is  -- Tableaux a 1D et 2D (ou nD)
+   
    -- > TABLEAUX A 1D
 
    TailleMax : constant Natural := 5;

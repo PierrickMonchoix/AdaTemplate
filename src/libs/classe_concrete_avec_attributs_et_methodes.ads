@@ -19,5 +19,7 @@ private
       Health : Integer range 1 ..
           100; -- la taille d'in int est deja bornée mais c'est bon le le borner en core plus
    end record;
+   -- pour declarer vec les attributs:
+   -- Pers : Personne := (Tag => "LEO", Health => 80);
 
 end Classe_Concrete_Avec_Attributs_Et_Methodes;

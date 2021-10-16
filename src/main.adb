@@ -6,6 +6,8 @@ with Test_Classe_Concrete_Avec_Attributs_Et_Methodes ;
 with Ada.Integer_Text_IO ;
 with Test_Conditions;
 with Test_Boucles;
+with Test_Surchage_Operteurs;
+with Test_Polymorphisme_De_Types;
 
 procedure Main is
    All_Tests_Passed : Boolean;
@@ -35,6 +37,10 @@ begin
    Test_Conditions.Test_All(All_Tests_Passed);
 
    Test_Boucles.Test_All(All_Tests_Passed);
+
+   Test_Surchage_Operteurs.Test_All(All_Tests_Passed);
+
+   Test_Polymorphisme_De_Types.Test_All(All_Tests_Passed);
 
    -- END : CODE AND TESTS --
 

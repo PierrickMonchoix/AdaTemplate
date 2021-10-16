@@ -9,6 +9,11 @@ package Creation_De_Types_Concrets is
    type Degres_Celcius is new Degres;
    type Degres_Fahrenheit is new Degres;
    
+   -- types modulaires , faire integer(M) pour obtenirun integer de ce nombre
+   type T_Heure is mod 24 ;
+   type T_Minute is mod 60 ; 
+   type T_Seconde is mod 60 ;
+   
    -- < NEW TYPE
    
    -- > SUBTYPE
