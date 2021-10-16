@@ -10,12 +10,19 @@ package body Tableaux is
       Tableau := (1 | 3 => 17, others => 0);  -- (17,0,17,0,0,0)
    end Remplir_Tableau_Avec_Les_Predicats;
 
-   procedure Un_For_Dans_Un_Tableau (Tableau : out T_Tableau) is
+   procedure Affecter_Valeurs_Par_Un_For (Tableau : out T_Tableau) is
    begin
-
       for i in Tableau'Range loop
          Tableau (i) := 0;
       end loop;
-   end Un_For_Dans_Un_Tableau;
+   end Affecter_Valeurs_Par_Un_For;
+
+   procedure For_Each_Example (Tableau : out T_Tableau) is
+   begin
+      for Element : Integer of Tableau loop  -- le ": Integer" n'ets pas necessaire
+         Element := Element + 1;
+      end loop;
+
+   end For_Each_Example;
 
 end Tableaux;
