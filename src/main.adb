@@ -8,6 +8,8 @@ with Test_Conditions;
 with Test_Boucles;
 with Test_Surchage_Operteurs;
 with Test_Polymorphisme_De_Types;
+with Test_Genericite;
+with Test_Heritage_Package;
 
 procedure Main is
 
@@ -29,16 +31,14 @@ begin
 
 
    Test_Classes_Abtraites_Et_Interfaces.Test_All;
-
    Test_Classe_Concrete_Avec_Attributs_Et_Methodes.Test_All;
-
    Test_Conditions.Test_All;
-
    Test_Boucles.Test_All;
-
    Test_Surchage_Operteurs.Test_All;
-
    Test_Polymorphisme_De_Types.Test_All;
+   Test_Genericite.Test_All;
+   Test_Heritage_Package.Test_All;
+
 
    -- END : CODE AND TESTS --
 
