@@ -15,11 +15,11 @@ package body Test_Boucles is
    --  -- for loop reverse
 --  function Factorielle_Avec_Reverse_For(Nombre : in Integer) return Integer;
 
-   procedure Test_All (All_Tests_Passed : in out Boolean) is
+   procedure Test_All is
    begin
 
       Test_And_Detect_Fail
-        (B => All_Tests_Passed, Identifier => "test Test_Boucles simple loop",
+        (Identifier => "test Test_Boucles simple loop",
          Equality =>
            Multiplier_Par_Deux_Jusqua_supperieur_A_100_Avec_Simple_Loop (26) =
            104 and
@@ -27,7 +27,7 @@ package body Test_Boucles is
              15);
 
       Test_And_Detect_Fail
-        (B => All_Tests_Passed, Identifier => "test Test_Boucles while loop",
+        (Identifier => "test Test_Boucles while loop",
          Equality =>
            Multiplier_Par_Deux_Jusqua_supperieur_A_100_Avec_While_Loop (26) =
            104 and
@@ -35,13 +35,13 @@ package body Test_Boucles is
              15);
 
       Test_And_Detect_Fail
-        (B => All_Tests_Passed, Identifier => "test Test_Boucles simple for",
+        (Identifier => "test Test_Boucles simple for",
          Equality =>
            Factorielle_Avec_Simple_For (5) = 120 and
            Factorielle_Avec_Simple_For (4) /= 2);
 
       Test_And_Detect_Fail
-        (B => All_Tests_Passed, Identifier => "test Test_Boucles reverse for",
+        (Identifier => "test Test_Boucles reverse for",
          Equality =>
            Factorielle_Avec_Reverse_For (5) = 120 and
            Factorielle_Avec_Reverse_For (4) /= 2);

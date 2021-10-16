@@ -3,7 +3,7 @@ with Test;                             use Test;
 
 package body Test_Classes_Abtraites_Et_Interfaces is
 
-   procedure Test_All (All_Tests_Passed : in out Boolean) is
+   procedure Test_All is
 
       Leonard              : Humain;
       Presentation_Leonard : String_For_Presentation;
@@ -14,7 +14,7 @@ package body Test_Classes_Abtraites_Et_Interfaces is
       Presentation_Leonard := Se_Presenter (Leonard);
 
       Test_And_Detect_Fail
-        (All_Tests_Passed, "Interface Work",
+        ( "Interface Work",
          Presentation_Leonard = "Je suis LEO");
 
    end Test_All;

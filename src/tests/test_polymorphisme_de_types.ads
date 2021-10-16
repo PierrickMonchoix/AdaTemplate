@@ -1,6 +1,6 @@
 package Test_Polymorphisme_De_Types is
 
-   procedure Test_All(All_Tests_Passed : in out Boolean);
+   procedure Test_All;
 
 
 end Test_Polymorphisme_De_Types;

@@ -1,5 +1,10 @@
 package body Test is
 
+   function Les_Tests_Sont_Ils_Passes return Boolean is
+   begin
+        return All_Tests_Passed;
+      end Les_Tests_Sont_Ils_Passes;
+
    function Test_Equality
      (Identifier : String; Equality : Boolean) return Boolean
    is
@@ -21,13 +26,13 @@ package body Test is
    end Detect_Fail;
 
    procedure Test_And_Detect_Fail
-     (B : in out Boolean; Identifier : String; Equality : Boolean)
+     (Identifier : String; Equality : Boolean)
    is
       Result : Boolean;
 
    begin
       Result := Test_Equality (Identifier, Equality);
-      Detect_Fail (B, Equality);
+      Detect_Fail (All_Tests_Passed, Equality);
    end Test_And_Detect_Fail;
 
 end Test;

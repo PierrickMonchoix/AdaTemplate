@@ -2,7 +2,7 @@ with Test;                 use Test;
 with Surcharge_Operateurs; use Surcharge_Operateurs;
 package body Test_Surchage_Operteurs is
 
-   procedure Test_All (All_Tests_Passed : in out Boolean) is
+   procedure Test_All is
       Sirop_1, Sirop_2, Sirop_3, Sirop_4 : Sirop_Grenadine;
    begin
       Sirop_1.Volume        := 10.0;
@@ -18,7 +18,7 @@ package body Test_Surchage_Operteurs is
       --  Sirop_3.Concentration := (1000.0 * 10.0 + 3000.0 * 20.0 ) / (1000.0 + 3000.0);
 
       Test_And_Detect_Fail
-        (B => All_Tests_Passed, Identifier => "test Test_Surchage_Operteurs +",
+        (Identifier => "test Test_Surchage_Operteurs +",
          Equality => Sirop_3 = Sirop_4);
 
    end Test_All;
