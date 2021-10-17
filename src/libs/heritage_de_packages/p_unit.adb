@@ -8,7 +8,7 @@ package body P_Unit is
       return Result;
    end Init_Unit;
 
-   procedure Attaque (Self, Defenseur : in out T_Unit'Class) is
+   procedure Attaque (Self : in out T_Unit; Defenseur : in out T_Unit'Class) is
    begin
       Defenseur.Vie := Defenseur.Vie - Self.Att;
    end Attaque;

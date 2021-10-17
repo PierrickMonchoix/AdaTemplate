@@ -6,11 +6,11 @@ package P_Unit is
 
    -- comme le premier param de Attaque est un T_Unit alors on poura faire Une_Unite.Attaque(Autre_Unite);
    procedure Attaque
-     (Self,
-      Defenseur : in out T_Unit'
-        Class);  -- 'class pour que tous les types herites de T_Unit fonctionnent
+     (Self : in out T_Unit ;
+      Defenseur : in out T_Unit'class);  -- 'class pour que TOUS les types herites de T_Unit fonctionnent
 
-   function Get_Vie(Self : T_Unit) return Integer;
+   function Get_Vie(Self : T_Unit) return Integer; -- le "Self : T_Unit" deviendra automatiquement "Self : T_soingeur" pour la classe soigneur
+     -- comme pour la classe
 
 private
 
